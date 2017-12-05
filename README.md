@@ -22,3 +22,7 @@ One site by day probably... who knows?!
 ### Site 05
 
 ![alt text](https://raw.githubusercontent.com/huaren/huaren.github.io/master/Site05/Site05.png)
+
+### Site 06
+
+![alt text](https://raw.githubusercontent.com/huaren/huaren.github.io/master/Site06/Site06.png)
